@@ -5,11 +5,11 @@ import Layout from '../components/Layout';
 export default function Works() {
   const workLinks = [
     { href: "#", text: "rip algorithm" },
-    { href: "#", text: "journalling app" },
+    { href: "#", text: "marcus - journalling app" },
   ];
 
   const wordsLinks = [
-    { href: "#", text: "coming soon" },
+    { href: "#", text: "working on it" },
   ];
 
   return (

@@ -9,7 +9,7 @@ const Header: React.FC = () => {
       <p className="text-xl font-light text-stone-500">this is a repository of my works.</p> 
       <br />
       <p className="text-xl font-light text-stone-500">
-        <span className="italic">current</span> sydney resident, mba student, intersect mbo founding member.
+        <span className="italic">current</span> sydney resident, mba student, intersect mbo, biotech startup.
       </p>
       <p className="text-xl font-light text-stone-500">
         <span className="italic">ex</span> tokyo resident, google, mastering studio lackey, consultant.
