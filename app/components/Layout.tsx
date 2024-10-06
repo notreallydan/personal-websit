@@ -1,5 +1,4 @@
 import React, { ReactNode } from 'react';
-import Navigation from './Navigation';
 
 interface LayoutProps {
   children: ReactNode;
@@ -7,12 +6,12 @@ interface LayoutProps {
 
 const Layout: React.FC<LayoutProps> = ({ children }) => {
   return (
-    <div className="min-h-screen flex flex-col">
-      <main className="flex-grow pt-56">
+    <div className="h-full flex flex-col justify-between p-8">
+      <main className="flex-grow">
         {children}
       </main>
-      <footer className="mt-auto pb-44">
-        <Navigation />
+      <footer className="mt-8">
+        {/* Navigation component removed from here */}
       </footer>
     </div>
   );
