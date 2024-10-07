@@ -11,7 +11,7 @@ const Navigation: React.FC = () => {
 
   return (
     <nav className="flex items-center space-x-5">
-      <div className="w-14"> {/* Fixed width container for home/works link */}
+      <div className="w-14">
         {pathname === '/' ? (
           <Link href="/works" className="text-xl font-light hover:underline">
             works
