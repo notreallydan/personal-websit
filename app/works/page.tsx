@@ -4,12 +4,11 @@ import Layout from '../components/Layout';
 
 export default function Works() {
   const workLinks = [
-    { href: "#", text: "rip algorithm" },
-    { href: "#", text: "marcus - journalling app" },
+    { href: "#", text: "wip" },
   ];
 
   const wordsLinks = [
-    { href: "#", text: "working on it" },
+    { href: "#", text: "also working on it" },
   ];
 
   return (
