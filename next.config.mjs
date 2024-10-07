@@ -1,5 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+    env: {
+      NEXT_PUBLIC_EMAIL: process.env.NEXT_PUBLIC_EMAIL,
+      NEXT_PUBLIC_LINKEDIN_URL: process.env.NEXT_PUBLIC_LINKEDIN_URL,
+    },
     async headers() {
       return [
         {
