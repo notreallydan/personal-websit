@@ -1,8 +1,8 @@
-# personal website
+## personal website
 
 this is my personal website. the project is built using next.js and will be a place for my projects and writing. 
 
-## table of contents
+### table of contents
 
 - [features](#features)
 - [technologies used](#technologies-used)
@@ -11,14 +11,14 @@ this is my personal website. the project is built using next.js and will be a pl
 - [contributing](#contributing)
 - [license](#license)
 
-## features
+### features
 
 - responsive design
 - easy navigation
 - dynamic content rendering
 - built with modern web technologies
 
-## technologies used
+### technologies used
 
 - **next.js**: a react framework for server-side rendering and static site generation
 - **react**: a javascript library for building user interfaces
@@ -26,18 +26,18 @@ this is my personal website. the project is built using next.js and will be a pl
 - **typescript**: a superset of javascript that adds static types
 - **eslint**: a tool for identifying and fixing problems in javascript code
 
-## installation
+### installation
 
 to get started with this project, follow these steps:
 
 1. clone the repository:
    ```bash
-   git clone https://github.com/yourusername/personal-website.git
+   git clone https://github.com/notreallydan/personal-websit.git
    ```
 
 2. navigate to the project directory:
    ```bash
-   cd personal-website
+   cd personal-websit
    ```
 
 3. install the dependencies:
@@ -45,7 +45,7 @@ to get started with this project, follow these steps:
    npm install
    ```
 
-## usage
+### usage
 
 to run the development server, use the following command:
    ```bash
@@ -54,9 +54,9 @@ to run the development server, use the following command:
 
 open your browser and navigate to `http://localhost:3000` to view the website.
 
-## contributing
+### contributing
 
-contributions are welcome. if you have suggestions for improvements or want to report a bug, please open an issue or submit a pull request.
+unlikely but contributions are welcome. if you have suggestions for improvements or want to report a bug, please open an issue or submit a pull request.
 
 1. fork the repository
 2. create a new branch:
@@ -73,7 +73,7 @@ contributions are welcome. if you have suggestions for improvements or want to r
    ```
 5. open a pull request
 
-## license
+### license
 
 this project is open source and available under the [MIT License](LICENSE).
 
