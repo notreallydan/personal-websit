@@ -48,9 +48,10 @@ to get started with this project, follow these steps:
 ## usage
 
 to run the development server, use the following command:
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
+
 open your browser and navigate to `http://localhost:3000` to view the website.
 
 ## contributing
